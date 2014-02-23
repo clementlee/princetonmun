@@ -75,12 +75,10 @@ h2 {
 	line-height: 0.1em;
 	margin: 10px 0 20px; 
 } 
-
 h2 span { 
 	background:#fff; 
 	padding:0 10px; 
 }
-
 .contentdiv {
 	width:800px;
 	margin:0 auto;
@@ -89,8 +87,9 @@ h2 span {
 }
 #aboutdiv {
 }
-
 #faqdiv {
+}
+#registerdiv {
 }
 footer {
 	padding-bottom:10px;
