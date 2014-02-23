@@ -40,6 +40,18 @@ a.unmark {
 	line-height:100px;
 	float:left;
 }
+.navbutt { 
+	float:right;
+	line-height:100px;
+	height:100%;
+	display:inline-block;
+	vertical-align:middle;
+	color:#00AAFF;
+	padding-left:25px;
+	font-size:24px;
+	/*position:absolute;
+	top:0px;*/
+}
 #content {
 	font-family: 'PT Sans Narrow', sans-serif;
 	background-color:white;
@@ -85,16 +97,4 @@ footer {
 	padding-top:10px;
 	text-align:center;
 	margin-top:0;
-}
-.navbutt {
-	float:right;
-	line-height:100px;
-	height:100%;
-	display:inline-block;
-	vertical-align:middle;
-	color:#00AAFF;
-	padding-left:25px;
-	font-size:24px;
-	/*position:absolute;
-	top:0px;*/
 }
