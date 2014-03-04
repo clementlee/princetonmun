@@ -1,3 +1,15 @@
+@font-face {
+	font-family: 'fenixregular';
+	src: url('../pub/fenix-webfont.eot');
+	src: url('../pub/fenix-webfont.eot?#iefix') format('embedded-opentype'),
+	url('../pub/fenix-webfont.woff') format('woff'),
+	url('../pub/fenix-webfont.ttf') format('truetype'),
+	url('../pub/fenix-webfont.svg#fenixregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
 body {
 	text-rendering:optimizeLegibility;
 	font-family:'Oswald', sans-serif;
@@ -53,7 +65,7 @@ a.unmark {
 	top:0px;*/
 }
 #content {
-	font-family: 'PT Sans Narrow', sans-serif;
+	font-family: 'fenixregular', serif;
 	background-color:white;
 	width:900px;
 	margin:0 auto;
